@@ -3,9 +3,6 @@ import Characters.RPGCharacter;
 
 /***
  * Base Attack class. It creates the foundation for all specialized attacks such as Spells and Melees.
- * PLEASE NOTE: This class will not compile until you create the RPGCharacter class
- *
- * @author Juliano Franz
  */
 public abstract class Attack {
     private int cost;
